@@ -1,4 +1,5 @@
 gitlab-installer
+gitlab一键安装
 ================
 
 ### Installer for GitLab/GitLabHQ on RHEL 5 and 6 (Red Hat Enterprise Linux and CentOS) ###
